@@ -52,5 +52,5 @@ passwd {username}
 
 then from the Artix.exe folder :
 ```
-Arch.exe config --default-user {username}
+Artix.exe config --default-user {username}
 ```
