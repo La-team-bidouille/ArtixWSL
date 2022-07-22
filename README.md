@@ -3,6 +3,10 @@ Artix Linux on WSL (Windows 10 FCU or later) based on [wsldl](https://github.com
 
 Forked from [hdk5/ArtixWSL](https://github.com/hdk5/ArtixWSL)
 
+## Installation
+
+See [INSTALL.md](https://github.com/La-team-bidouille/ArtixWSL/blob/master/INSTALL.md)
+
 ![screenshot](https://raw.githubusercontent.com/wiki/yuk7/wsldl/img/Arch_Alpine_Ubuntu.png)
 
 Refer to [ArchWSL](https://github.com/yuk7/ArchWSL) README for further instructions - most of it should also work for ArtixWSL
